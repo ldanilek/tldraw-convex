@@ -1,12 +1,12 @@
 {
-  "project": "tldraw-example",
-  "team": "sujayakar-team",
-  "prodUrl": "https://acoustic-flamingo-616.convex.cloud",
+  "project": "tldraw-convex-15bdf",
+  "team": "lee-danilek",
+  "prodUrl": "https://giddy-meerkat-298.convex.cloud",
   "functions": "convex/",
   "authInfo": [
     {
-      "domain": "https://dev-1sfr-rpl.us.auth0.com/",
-      "applicationID": "MHlQTTFFbLMNOYNHbI9OuJ43mTkcBswY"
+      "domain": "https://dev-ow-k8gn2.us.auth0.com/",
+      "applicationID": "5994vsjmvbiaGRKopkJQMyPLFXJyKh4b"
     }
   ]
 }
